@@ -1,25 +1,23 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Rohan-Doshi-d14ba8b2133a4c43a57e1d1e63a5071c',
+  rootNotionPageId: '85bd9bee432148f4b32721bd6c6cfccd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Rohan Doshi',
+  name: 'Bliss Mocktails',
   domain: 'iamrodo.in',
   author: 'Rohan Doshi',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Rohan Doshi',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageTitle: 'Bliss Mocktails',
+  socialImageSubtitle: 'Bliss Mocktails! 🍹',
 
   // social usernames (optional)
-  twitter: 'rohan_doshi09',
-  github: 'Rohan-Doshi',
-  linkedin: 'rohan-doshi-0543b594',
+  instagram: 'bliss_mocktails',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
